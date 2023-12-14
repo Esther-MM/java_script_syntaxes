@@ -123,6 +123,7 @@ likes *= 2;
 likes /= 2;
 console.log(likes);
 
+console.log(1+1);
 
 
 
